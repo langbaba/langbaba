@@ -1,4 +1,4 @@
-## Hello GitHub Fans 👋
+## Hello  👋
 
 [![Mail Badge](https://img.shields.io/badge/-root123456@88.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:root123456@88.com)](mailto:root123456@88.com)
 ---
@@ -15,7 +15,7 @@
 - 💻 &#160; Linux,Ansible,Jenkins
 - 🌐 &#160; Wireshark,Fiddler
 - 🛢 &#160; Mysql,Redis,ES,MongoDB
-- 🔧 &#160; 杂乱无章的技术栈..
+- 🔧&#160; 杂乱无章的技术栈..
 
 
 ### 关于我
